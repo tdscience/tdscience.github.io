@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Transport Data Science",
+    "section": "",
+    "text": "Welcome\nWelcome to the Transport Data Science book. This is an open-source, future-proof resource dedicated to the application of data science methods to transport planning, engineering, and policy.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#key-resources-workshops",
+    "href": "index.html#key-resources-workshops",
+    "title": "Transport Data Science",
+    "section": "Key Resources & Workshops",
+    "text": "Key Resources & Workshops\nBelow are key resources and training courses developed under the tdscience project:\n\n\n\n\n\n&lt;div class=\"card-content\"&gt;\n  &lt;h3&gt;Mobile Tartu Workshop&lt;/h3&gt;\n  &lt;p&gt;A 2-day workshop focused on Origin-Destination (OD) data and route networks at Mobile Tartu 2026.&lt;/p&gt;\n  &lt;span class=\"card-link-text\"&gt;Learn more &rarr;&lt;/span&gt;\n&lt;/div&gt;\n\n\n\n\n\n&lt;div class=\"card-content\"&gt;\n  &lt;h3&gt;Reproducible Data Science&lt;/h3&gt;\n  &lt;p&gt;A comprehensive course on essential tools and skills for building reproducible data science pipelines.&lt;/p&gt;\n  &lt;span class=\"card-link-text\"&gt;View Course &rarr;&lt;/span&gt;\n&lt;/div&gt;\n\n\n\n\n\n&lt;div class=\"card-content\"&gt;\n  &lt;h3&gt;Data Science for Transport Planning&lt;/h3&gt;\n  &lt;p&gt;An educational program exploring the role of data science in modern, sustainable transport planning.&lt;/p&gt;\n  &lt;span class=\"card-link-text\"&gt;Explore DSTP &rarr;&lt;/span&gt;\n&lt;/div&gt;",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#about-the-book",
+    "href": "index.html#about-the-book",
+    "title": "Transport Data Science",
+    "section": "About the Book",
+    "text": "About the Book\nTransport Data Science (TDS) is an emerging field at the intersection of transport planning, geography, and data science. This book aims to provide:\n\nReproducible workflows using Python and R.\nPractical examples covering spatial data analysis, routing, and network analysis.\nFuture-proof concepts built on modern tools like Quarto, Pixi, and GitHub Actions.\n\nStay tuned as we expand the chapters!",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "01-introduction.html",
+    "href": "01-introduction.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "1.1 Why Transport Data Science?\nThis is the introduction to Transport Data Science.\nTransport Data Science is an exciting, interdisciplinary field that leverages computational methods, geographic information systems (GIS), and data science techniques to solve transport challenges.\nThe transport sector generates vast amounts of data, including: - GPS tracks and mobile phone records - Smart card and ticketing system data - Traffic sensors and cameras - OpenStreetMap and public transit schedules (GTFS)\nData science tools help transport planners and researchers make sense of this data to design more efficient, sustainable, and equitable transport systems.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  }
+]
